@@ -8,7 +8,7 @@
 
 #import <UIKit/UIKit.h>
 
-typedef NS_ENUM(NSInteger , DHPopupMenuType) {
+typedef NS_ENUM(NSInteger, DHPopupMenuType) {
     DHPopupMenuTypeDefault = 0,
     DHPopupMenuTypeDark
 };
