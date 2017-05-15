@@ -362,6 +362,7 @@
         self.sd_x = 10;
     }
     
+    
     maxX = CGRectGetMaxX(self.frame);
     minX = CGRectGetMinX(self.frame);
     
