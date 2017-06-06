@@ -344,6 +344,7 @@
     }
     self.sd_y += self.sd_y >= _anchorPoint.y ? _offset : -_offset;
     return layer;
+    
 }
 
 - (void)setArrowPointingWhere: (CGPoint)anchorPoint
