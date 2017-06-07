@@ -32,6 +32,7 @@
     popupMenu.delegate = self;
     popupMenu.offset = 10;
     popupMenu.type = DHPopupMenuTypeDark;
+    
 }
 
 #pragma mark - YBPopupMenuDelegate
